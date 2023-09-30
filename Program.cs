@@ -67,7 +67,7 @@ namespace ConsoleAppNewsapi
                     Console.WriteLine(word);
                 }
 
-                Console.WriteLine(new string('-', 50));
+                Console.WriteLine(new string('-', 100));
                 await Task.Delay(500); //задержка просто так, для поэтапного вывода результата
             }
 
