@@ -110,7 +110,5 @@ namespace ConsoleAppNewsapi
 
             return input;
         }
-
-
     }
 }
